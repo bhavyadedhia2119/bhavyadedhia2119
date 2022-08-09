@@ -6,6 +6,7 @@ export class PureComp extends Component {
     return (
       <div>
         I am the Pure Component {this.props.name}
+        <h1>Hello World</h1>
       </div>
     )
   }
